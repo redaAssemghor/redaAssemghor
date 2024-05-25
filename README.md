@@ -6,7 +6,7 @@
 
 💖 **Passionate About Front-End Development** - Crafting responsive and engaging user interfaces.
 
-💬 **Currently Learning**: 3D modeling and visualization using Three.js
+💬 **Currently Learning**: 3D modeling and visualization using Three.js and GSAP
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#0974) 
