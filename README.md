@@ -2,10 +2,6 @@
 
 👨‍💻 **Software Engineer** - Sharing my journey and always eager to learn new technologies.
 
-🎓 **Studied Computer Science** at Lobachevsky State University of Nizhny Novgorod.
-
-💖 **Passionate About Front-End Development** - Crafting responsive and engaging user interfaces.
-
 💬 **Currently Learning**: 3D modeling and visualization using Three.js and GSAP
 
 ## 🌐 Socials:
