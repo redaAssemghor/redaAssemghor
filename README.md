@@ -1,8 +1,6 @@
 # 👋 Hi I'm Reda!
 
-👨‍💻 **Software Engineer** - Sharing my journey and always eager to learn new technologies.
-
-💬 **Currently Learning**: 3D modeling and visualization using Three.js and GSAP
+👨‍💻 **Full Stack Developer** - Sharing my journey and always eager to learn new technologies.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#0974) 
